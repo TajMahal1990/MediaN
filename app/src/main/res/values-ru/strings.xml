@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWork_AndroidStudio</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="lable_avatar">Аватар</string>
+    <string name="menu">Меню</string>
+    <string name="likes">Лайки</string>
+    <string name="reposts">Репосты</string>
+    <string name="views">Просмотры</string>
+    <string name="title_activity_card_post">Карта поста</string>
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="hello_first_fragment">Привет первый фрагмент</string>
+    <string name="hello_second_fragment">Привет второй фрагмент. Арг: %1$s</string>
+</resources>

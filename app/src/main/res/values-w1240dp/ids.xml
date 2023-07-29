@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="avatar" type="id" />
+    <item name="header_barrier2" type="id" />
+    <item name="author" type="id" />
+    <item name="publisher" type="id" />
+    <item name="menu" type="id" />
+    <item name="post_botom_barrier" type="id" />
+    <item name="likes_ico" type="id" />
+    <item name="likes" type="id" />
+    <item name="reposts_ico" type="id" />
+    <item name="reposts" type="id" />
+    <item name="views_ico" type="id" />
+    <item name="views" type="id" />
+</resources>
